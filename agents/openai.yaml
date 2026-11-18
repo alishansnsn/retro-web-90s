@@ -1,0 +1,4 @@
+interface:
+  display_name: "90s Web Transformation"
+  short_description: "Research and rebuild websites in an authentic 1990s style"
+  default_prompt: "Inspect this website, choose a historically grounded 1990s art direction, and transform the full site while preserving its content and functionality."
